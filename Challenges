@@ -1,0 +1,3 @@
+specific path needed for code to work example chromedriver
+sites are loaded with time delays not using <find element_by_id>
+documentation needs work
